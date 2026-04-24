@@ -32,9 +32,9 @@ latest_posts:
 #Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 ---
 
-I am a PhD student in Computer Science, in a cotutelle program between the University of Bordeaux and Sapienza University of Rome, under the supervision of Nathanaël Fijalkow and Giuseppe Perelli.
+I am a PhD student in Computer Science, in a cotutelle program between the University of Bordeaux and Sapienza University of Rome, under the supervision of Nathanaël Fijalkow and Giuseppe Perelli. My research focuses on games on graphs.
 
-In September 2025, I graduated from the École Normale Supérieure Paris-Saclay in Computer Science, with the Parisian Master of Research in Computer Science (MPRI).
-In 2024, I obtained a master's degree in Optimisation from the University Paris-Saclay of Mathematics and applications.
+In September 2025, I graduated from the École Normale Supérieure Paris-Saclay in Computer Science, completing the Parisian Master of Research in Computer Science (MPRI).
+In 2024, I obtained a Master's degree in Optimisation from the University Paris-Saclay in Mathematics and applications.
 
-I am interested in topics in game theory, optimisation and theoretical computer science, with a focus on formal methods for artificial intelligence, such as games on graphs.
+I am interested in game theory, optimisation and theoretical computer science, with a focus on formal methods for artificial intelligence, in particular games on graphs.

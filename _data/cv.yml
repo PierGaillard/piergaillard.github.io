@@ -1,0 +1,189 @@
+cv:
+  name: Pierre Gaillard
+  label: PhD student in Computer Science
+  email: pierre.gaillard@u-bordeaux.fr
+  location: Rome, Italy
+  image: ""
+#  summary: PhD student in computer science, in cotutelle at University of Bordeaux and Sapienza University of Rome.
+
+  social_networks:
+    - network: GitHub
+      username: PierGaillard
+    - network: LinkedIn
+      username: pierre-gaillard-015b321a2
+
+#  address:
+#    street: 2712 Broadway St
+#    city: San Francisco
+#    region: California
+#    postalCode: CA 94115
+#    countryCode: US
+
+  sections:
+    Education:
+      - institution: University of Bordeaux and Sapienza University of Rome
+        studyType: PhD in Computer Science
+#        location: Bordeaux, France
+        location: Rome, Italy
+#        url: https://ens-paris-saclay.fr/
+        area: Formal Methods for Artificial Intelligence
+        start_date: 2025
+        end_date: 2028
+
+
+#      - institution: École Normale Supérieure Paris-Saclay
+      - studyType: École Normale Supérieure Paris-Saclay
+        location: Gif-sur-Yvette, France
+        url: https://ens-paris-saclay.fr/
+        area: Computer Science
+#        studyType: Master
+        start_date: 2021
+        end_date: 2025
+
+#      - institution: Preparatory class Lycée Michel Montaigne
+      - studyType: Preparatory class Lycée Michel Montaigne
+        location: Bordeaux, France
+#        studyType: MPSI/MP*
+        institution: MPSI/MP*
+        start_date: 2019
+        end_date: 2021
+
+#    Experience:
+#      - company: Institute for Advanced Study, Princeton University
+#        position: Professor of Theoretical Physics
+#        location: Princeton University, NJ
+#        start_date: 1933
+#        end_date: 1955
+#        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+#        highlights:
+#          - Relativity
+#          - Description 2.
+#
+#      - company: California Institute of Technology
+#        position: Visiting Professor
+#        location: Pasadena, California, US
+#        start_date: 1933
+#        end_date: 1933
+#        highlights:
+#          - Description 1.
+#          - Description 2.
+#
+#      - company: Kaiser Wilhelm Institute for Physics
+#        position: Director
+#        location: Berlin, Germany
+#        start_date: 1917
+#        end_date: 1933
+#
+#      - company: Karl-Ferdinand University
+#        position: Professor of Theoretical Physics
+#        location: Prague, Czechoslovakia
+#        start_date: 1911
+#        end_date: 1917
+#
+#      - company: University of Zurich
+#        position: Associate Professor of Theoretical Physics
+#        location: Zurich, Switzerland
+#        start_date: 1909
+#        end_date: 1911
+
+#    Volunteer:
+#      - company: People's Climate March
+#        position: Lead Organizer
+#        location: Zurich, Switzerland
+#        start_date: 2014-04-01
+#        end_date: 2015-07-01
+#        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+#        highlights:
+#          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
+#          - "Men of the year 2014 by Time magazine"
+
+#    Awards:
+#      - title: Nobel Prize in Physics
+#        authors:
+#          - "Royal Swedish Academy of Sciences"
+#        date: 1921-11-01
+#        awarder: Royal Swedish Academy of Sciences
+#        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
+#        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+#
+#      - title: Max Planck Medal
+#        authors:
+#          - "German Physical Society"
+#        date: 2029
+#        awarder: German Physical Society
+#        summary: Awarded for outstanding scientific achievement
+
+    Publications:
+      - title: Strategy Repair in Reachability Games via Graph Quotientation
+        authors:
+            - Tiziana Calamoneri
+            - Pierre Gaillard
+            - Giacomo Paesani
+            - Giuseppe Perelli
+        booktitle: 20th Scandinavian Symposium on Algorithm Theory, SWAT
+        year: 2026
+
+      - title: Strategy Repair in Reachability Games.
+        authors:
+            - Pierre Gaillard
+            - Fabio Patrizi
+            - Giuseppe Perelli
+        publisher: IOS Press
+        year: 2023
+        pdf: https://doi.org/10.3233/FAIA230344
+
+
+#    Skills:
+#      - name: Physics
+#        level: Master
+#        icon: fa-solid fa-hashtag
+#        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+
+    Languages:
+      - name: French
+        summary: "Native speaker"
+
+      - name: English
+        summary: "Fluent"
+
+      - name: Italian
+        summary: "Fluent"
+
+#    Interests:
+#      - name: Physics
+#        icon: fa-solid fa-tag
+#        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+#
+#    Certificates:
+#      - name: Machine Learning
+#        date: 2018-01-01
+#        issuer: Stanford University
+#        icon: fa-solid fa-location-dot
+#
+#      - name: Quantum Computing
+#        date: 2018-01-01
+#        issuer: Stanford University
+#        icon: fa-solid fa-tag
+#
+#      - name: Quantum Information
+#        date: 2018-01-01
+#        issuer: Stanford University
+#        icon: fa-solid fa-envelope
+
+#    Projects:
+#      - name: Quantum Computing
+#        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+#        highlights:
+#          - Quantum Teleportation
+#          - Quantum Cryptography
+#        start_date: 2018-01-01
+#        end_date: 2018-01-01
+
+#    References:
+#      - name: Professor John Doe
+#        icon: fa-solid fa-laptop
+#        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+#
+#      - name: Professor Jane Smith
+#        icon: fa-solid fa-thumbtack
+#        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.

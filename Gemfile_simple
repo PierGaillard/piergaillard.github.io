@@ -1,0 +1,17 @@
+source "https://rubygems.org"
+
+gem "jekyll", "~> 4.4"
+gem "jekyll-archives"
+gem "jekyll-email-protect"
+gem "jekyll-feed"
+gem "jekyll-link-attributes"
+gem "jekyll-minifier"
+gem "jekyll-paginate-v2"
+gem "jekyll-regex-replace"
+gem "jekyll-scholar"
+gem "jekyll-sitemap"
+gem "jekyll-toc"
+gem "jemoji"
+
+# Theme
+gem "al-folio"

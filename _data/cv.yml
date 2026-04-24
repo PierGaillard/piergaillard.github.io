@@ -1,7 +1,7 @@
 cv:
   name: Pierre Gaillard
   label: PhD student in Computer Science
-  email: pierre.gaillard@u-bordeaux.fr
+  email: '<a href="mailto:pierre.gaillard@u-bordeaux.fr">pierre.gaillard@u-bordeaux.fr</a>'
   location: Rome, Italy
   image: ""
   #  summary: PhD student in computer science, in cotutelle at University of Bordeaux and Sapienza University of Rome.

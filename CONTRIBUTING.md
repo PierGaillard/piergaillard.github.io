@@ -2,7 +2,7 @@
 
 Thank you for considering contributing to al-folio!
 
-## Pull Requests 
+## Pull Requests
 
 We welcome your pull requests (PRs).
 For minor fixes (e.g., documentation improvements), feel free to submit a PR directly.

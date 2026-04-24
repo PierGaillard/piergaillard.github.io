@@ -366,7 +366,7 @@ enable_masonry: true
 enable_math: true
 enable_tooltips: false
 enable_darkmode: true
-enable_navbar_social: true  # shows GitHub, Scholar, LinkedIn icons in navbar
+enable_navbar_social: true # shows GitHub, Scholar, LinkedIn icons in navbar
 enable_project_categories: false
 enable_medium_zoom: true
 enable_progressbar: true

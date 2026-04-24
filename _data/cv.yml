@@ -112,24 +112,24 @@ cv:
     #        awarder: German Physical Society
     #        summary: Awarded for outstanding scientific achievement
 
-    Publications:
-      - title: Strategy Repair in Reachability Games via Graph Quotientation
-        authors:
-          - Tiziana Calamoneri
-          - Pierre Gaillard
-          - Giacomo Paesani
-          - Giuseppe Perelli
-        booktitle: 20th Scandinavian Symposium on Algorithm Theory, SWAT
-        year: 2026
-
-      - title: Strategy Repair in Reachability Games.
-        authors:
-          - Pierre Gaillard
-          - Fabio Patrizi
-          - Giuseppe Perelli
-        publisher: IOS Press
-        year: 2023
-        pdf: https://doi.org/10.3233/FAIA230344
+#    Publications:
+#      - title: Strategy Repair in Reachability Games via Graph Quotientation
+#        authors:
+#          - Tiziana Calamoneri
+#          - Pierre Gaillard
+#          - Giacomo Paesani
+#          - Giuseppe Perelli
+#        booktitle: 20th Scandinavian Symposium on Algorithm Theory, SWAT
+#        year: 2026
+#
+#      - title: Strategy Repair in Reachability Games.
+#        authors:
+#          - Pierre Gaillard
+#          - Fabio Patrizi
+#          - Giuseppe Perelli
+#        publisher: IOS Press
+#        year: 2023
+#        pdf: https://doi.org/10.3233/FAIA230344
 
     #    Skills:
     #      - name: Physics
